@@ -1,4 +1,12 @@
-### Hi there 👋
+# ¡Hola! Soy Leire, desarrolladora front-end 👋
+
+## Sobre mí
+
+Me apasionan tanto los procesos de **creación** como la **estrategia**, **organización** y **planificación** que conllevan detrás. Y he descubierto en el diseño web mi verdadera vocación, un puzzle donde encajan perfectamente mis dos mitades: la **lógica** y la **creativa**.
+
+Mis conocimientos y experiencias pasadas en sectores y entornos **interdisciplinares** como la **arquitectura**, la **investigación** y el **diseño** me convierten en una persona **polivalente**, **comprometida** y con atención al **detalle**.
+
+La **curiosidad**, mi afición por la tecnología y mis ganas de aprender continuamente me han llevado a formarme de manera **autodidacta** en diseño, maquetación y programación. Tras mi paso por el bootcamp de **Adalab** estoy lista y súper motivada para emprender una nueva aventura en el sector tecnológico.
 
 <!--
 **leireomadina/leireomadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
