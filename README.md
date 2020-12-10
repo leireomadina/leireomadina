@@ -1,12 +1,18 @@
-# Hi! My name is Leire and I’m a junior front end developer. 👋
+# Hi! My name is Leire 👋
 
-## About me
+### About me
 
-I am passionate about both the **creation** process and the **strategy**, **organization** and **planning** that it entails. And I’ve discovered programming as my true vocation, a puzzle where my two halves fit together: the **logic** and the **creative** one.
+I’m a junior front end developer, passionate about both the **creation** process and the **strategy**, **organization** and **planning** that it entails. And I’ve discovered programming as my true vocation, a puzzle where my two halves fit together: the **logic** and the **creative** one.
 
 Thanks to my knowledge and past experiences in different sectors and **interdisciplinary** environments such as **architecture**, **research** and **design**, I am a **versatile** and **analytical** person with **critical thinking** and attention to **detail**.
 
 Due to my **curiosity** and love for **technology**, I’m **self-taught** in design, web layout and programming. After finishing the **Adalab** bootcamp, I’m ready and super motivated to undertake a new adventure in this sector.
+
+### How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/leire-orde%C3%B1ana-madina/)
+- [Twitter](https://twitter.com/risingdana)
+- leireomadina@gmail.com
 
 <!--
 **leireomadina/leireomadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![leireomadina's GitHub stats](https://github-readme-stats.vercel.app/api?username=leireomadina&show_icons=true&hide_border=true)
 -->
