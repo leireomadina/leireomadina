@@ -8,7 +8,15 @@ Thanks to my knowledge and past experiences in different sectors and **interdisc
 
 Due to my **curiosity** and love for **technology**, I’m **self-taught** in design, web layout and programming. After finishing the **Adalab** bootcamp, I’m ready and super motivated to undertake a new adventure in this sector.
 
-### How to reach me:
+### Technologies:
+
+- HTML5, CSS3, SASS
+- JavaScript ES6
+- React
+- Visual Studio Code, Gulp, Terminal
+- Git
+
+### Find me here:
 
 - [LinkedIn](https://www.linkedin.com/in/leire-orde%C3%B1ana-madina/)
 - [Twitter](https://twitter.com/risingdana)
