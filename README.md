@@ -8,7 +8,7 @@ Thanks to my knowledge and past experiences in different sectors and **interdisc
 
 Due to my **curiosity** and love for **technology**, I’m **self-taught** in design, web layout and programming. After finishing the **Adalab** bootcamp, I’m ready and super motivated to undertake a new adventure in this sector.
 
-### Technologies:
+### Tech stack:
 
 - HTML5, CSS3, SASS
 - JavaScript ES6
