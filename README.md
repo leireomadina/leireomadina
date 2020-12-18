@@ -16,6 +16,14 @@ Due to my **curiosity** and love for **technology**, I’m **self-taught** in de
 - Visual Studio Code, Gulp, Terminal
 - Git
 
+### Featured projects:
+
+- [Frida Kards](https://github.com/Adalab/project-promo-k-module-2-team-8): Interactive digital cards generator with real-time visualization.  | JavaScript ES6
+- [Reservoir Code](https://github.com/Adalab/project-promo-k-module-3-team-1): Migration and refactoring of inherited code from the previous project.  | React
+- [Codeflix](https://github.com/leireomadina/Codeflix): Responsive web to show professional profiles.  | HTML5, CSS3, SASS
+- [Codeflix II](https://github.com/Adalab/modulo-2-evaluacion-final-leireomadina): Tv-series search page connected to an API that stores favorites.  | JavaScript ES6
+- [Rick & Morty Vice edition](https://github.com/Adalab/modulo-3-evaluacion-final-leireomadina): Rick and Morty tv-series character finder.  | React
+
 ### Find me here:
 
 - [LinkedIn](https://www.linkedin.com/in/leire-orde%C3%B1ana-madina/)
