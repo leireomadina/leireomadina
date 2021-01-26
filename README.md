@@ -1,4 +1,4 @@
-# Hi! My name is Leire 🤟
+# Hi! My name is Leire 🤘
 
 ### About me
 
