@@ -28,6 +28,7 @@ Due to my **curiosity** and love for **technology**, I’m **self-taught** in de
 
 - [LinkedIn](https://www.linkedin.com/in/leire-orde%C3%B1ana-madina/)
 - [Twitter](https://twitter.com/risingdana)
+- [Codewards](https://www.codewars.com/users/leireomadina)
 - leireomadina@gmail.com
 
 <!--
@@ -44,4 +45,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![leireomadina's GitHub stats](https://github-readme-stats.vercel.app/api?username=leireomadina&show_icons=true&hide_border=true)
+![codewards badge](https://www.codewars.com/users/leireomadina/badges/small)
 -->
