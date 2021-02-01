@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 
 ![leireomadina's GitHub stats](https://github-readme-stats.vercel.app/api?username=leireomadina&show_icons=true&hide_border=true)
 ![codewards badge](https://www.codewars.com/users/leireomadina/badges/small)
+<samp>Holi, esto es una prueba para escribir letra monospace</samp>
 -->
