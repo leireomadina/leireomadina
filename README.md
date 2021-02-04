@@ -27,9 +27,10 @@ Due to my **curiosity** and love for **technology**, I’m **self-taught** in de
 ### Find me here:
 
 - [LinkedIn](https://www.linkedin.com/in/leire-orde%C3%B1ana-madina/)
+- [Codepen](https://codepen.io/leireomadina)
 - [Twitter](https://twitter.com/risingdana)
-- [Codewards](https://www.codewars.com/users/leireomadina)
 - leireomadina@gmail.com
+- [Codewards](https://www.codewars.com/users/leireomadina)
 
 <!--
 **leireomadina/leireomadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
