@@ -28,6 +28,7 @@ Due to my **curiosity** and love for **technology**, I’m **self-taught** in de
 
 - [LinkedIn](https://www.linkedin.com/in/leire-orde%C3%B1ana-madina/)
 - [Codepen](https://codepen.io/leireomadina)
+- <a href="https://codepen.io/leireomadina" target="_blank">Codepen</a>
 - [Twitter](https://twitter.com/risingdana)
 - leireomadina@gmail.com
 - [Codewards](https://www.codewars.com/users/leireomadina)
