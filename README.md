@@ -2,11 +2,9 @@
 
 ### About me
 
-I’m a junior front end developer, passionate about both the **creation** process and the **strategy**, **organization** and **planning** that it entails. And I’ve discovered programming as my true vocation, a puzzle where my two halves fit together: the **logic** and the **creative** one.
+I’m a junior front end developer currently working at **[Zorraquino](https://www.zorraquino.com/)**, passionate about both the **creation** process and the **strategy**, **organization** and **planning** that it entails. And I’ve discovered programming as my true vocation, a puzzle where my two halves fit together: the **logic** and the **creative** one.
 
-Thanks to my knowledge and past experiences in different sectors and **interdisciplinary** environments such as **architecture**, **research** and **design**, I am a **versatile** and **analytical** person with **critical thinking** and attention to **detail**.
-
-Due to my **curiosity** and love for **technology**, I’m **self-taught** in design, web layout and programming. After finishing the **Adalab** bootcamp, I’m ready and super motivated to undertake a new adventure in this sector.
+Thanks to my knowledge and past experiences in different sectors and **interdisciplinary** environments such as **architecture**, **research** and **design**, I am a **versatile** and **analytical** person with **critical thinking** and attention to **detail**. Due to my **curiosity** and love for **technology**, I’m **self-taught** in design, web layout and programming. After finishing the **Adalab** bootcamp, I’m ready and super motivated to undertake a new adventure in this sector.
 
 ### Tech stack:
 
@@ -15,7 +13,7 @@ Due to my **curiosity** and love for **technology**, I’m **self-taught** in de
 - React.js
 - Gulp, Webpack
 - Git
-- 👀 I’m currently learning Backend development using Node.js, PHP and MySQL
+- 👀 I'm learning Backend development using Node.js, PHP and MySQL
 
 ### Featured projects:
 
