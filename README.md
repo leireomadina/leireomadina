@@ -1,36 +1,33 @@
-# Hi! My name is Leire 🤘
+# Hi! I'm Leire 🤘
 
 ### About me
 
-I’m a junior **front end developer** currently working at **[Zorraquino](https://www.zorraquino.com/)**, passionate about both the **creation** process and the **strategy**, **organization** and planning that it entails. And I’ve discovered programming as my true vocation, a puzzle where my two halves fit together: the **logic** and the **creative** one.
+**Full Stack Developer** with almost two years of experience currently working at **[Zorraquino](https://www.zorraquino.com/)**, passionate about both the creation process and the strategy and organization that it entails.
 
-Thanks to my knowledge and past experiences in different sectors and **interdisciplinary** environments such as **architecture**, **research** and **design**, I am a **versatile** and **analytical** person with **critical thinking** and attention to **detail**. Due to my **curiosity** and love for **technology**, I’m **self-taught** in design, web layout and programming. After finishing the **Adalab** bootcamp, I’m ready and super motivated to undertake a new adventure in this sector.
+Versatile, creative and analytical self-taught programmer with prior experience in the architecture, research and design sectors. UX/UI and Design Systems enthusiast motivated to work on a team focused on good practices, continuous learning, feedback-driven culture and transparency.
 
-### Tech stack:
+### Technologies I've worked with:
 
-- HTML5, CSS3, SASS
-- JavaScript ES6
-- React.js
-- Gulp, Webpack
-- Git
-- 👀 I'm learning Vue.js and Backend with PHP, MySQL and Symfony
+- HTML, CSS, SASS
+- JavaScript
+- Vue.js, React.js
+- PHP, Symfony
+- Git, Figma
+- Learning 🦕 Deno, TypeScript and MongoDB
 
 ### Featured projects:
 
-- [Mars Vegas' Blackjack](https://github.com/leireomadina/blackjack-game): card game. | JavaScript ES6
-- [Rick & Morty Vice edition](https://github.com/Adalab/modulo-3-evaluacion-final-leireomadina): Rick and Morty tv-series character finder.  | React
-- [Codeflix-TV series finder](https://github.com/leireomadina/modulo-2-evaluacion-final-leireomadina): Tv-series search page connected to an API that stores favorites.  | JavaScript ES6
-- [Frida Kards](https://github.com/Adalab/project-promo-k-module-2-team-8): Interactive digital cards generator with real-time visualization.  | JavaScript ES6
-- [Reservoir Code](https://github.com/Adalab/project-promo-k-module-3-team-1): Migration and refactoring of inherited code from the previous project.  | React
-- [CRUD app](https://github.com/leireomadina/conference-attendance-php) developed with PHP and MySQL.
+- [Rick & Morty Vice edition](https://github.com/Adalab/modulo-3-evaluacion-final-leireomadina): Rick and Morty tv-series character finder | *React*
+- [Mars Vegas' Blackjack](https://github.com/leireomadina/blackjack-game): Interactive card game | *JavaScript*
+- [Codeflix TV shows finder](https://github.com/leireomadina/modulo-2-evaluacion-final-leireomadina): TV shows search page connected to an API that stores favorites  | *JavaScript*
+- [Fylo landing page](https://github.com/leireomadina/fylo-dark-theme-landing-page): Frontend mentor challenge focused on componentization | *HTML, CSS, SASS, BEM*
+- [Frida Kards](https://github.com/Adalab/project-promo-k-module-2-team-8): Interactive digital cards generator with real-time visualization | *JavaScript*
+
 
 ### Find me here:
 
 - [LinkedIn](https://www.linkedin.com/in/leire-orde%C3%B1ana-madina/)
-- [Twitter](https://twitter.com/risingdana)
 - [Behance](https://www.behance.net/leireomadina)
-- [Codepen](https://codepen.io/leireomadina)
-- [Codewards](https://www.codewars.com/users/leireomadina)
 
 <!--
 **leireomadina/leireomadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,7 +42,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![leireomadina's GitHub stats](https://github-readme-stats.vercel.app/api?username=leireomadina&show_icons=true&hide_border=true)
-![codewards badge](https://www.codewars.com/users/leireomadina/badges/small)
-<samp>Holi, esto es una prueba para escribir letra monospace</samp>
 -->
