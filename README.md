@@ -1,6 +1,5 @@
 # Hi! I'm Leire 🤘
 
-### About me
 
 **Full Stack Developer** with almost two years of experience currently working at **[Zorraquino](https://www.zorraquino.com/)**, passionate about both the creation process and the strategy and organization that it entails.
 
