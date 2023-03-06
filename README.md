@@ -1,7 +1,7 @@
 # Hi! I'm Leire 🤘
 
 
-**Full Stack Developer** with almost two years of experience currently working at **[Zorraquino](https://www.zorraquino.com/)**, passionate about both the creation process and the strategy and organization that it entails.
+**Full Stack Developer** with two years of experience currently working at **[Zorraquino](https://www.zorraquino.com/)**, passionate about both the creation process and the strategy and organization that it entails.
 
 Versatile, creative and analytical self-taught programmer with prior experience in the architecture, research and design sectors. UX/UI and Design Systems enthusiast motivated to work on a team focused on good practices, continuous learning, feedback-driven culture and transparency.
 
@@ -12,7 +12,7 @@ Versatile, creative and analytical self-taught programmer with prior experience 
 - Vue.js, React.js
 - PHP, Symfony
 - Git, Figma
-- Learning 🦕 Deno, TypeScript and MongoDB
+- Learning TypeScript, Node.js and 🦕 Deno
 
 ### Featured projects:
 
