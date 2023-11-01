@@ -1,7 +1,7 @@
 # Hi! I'm Leire 🤘
 
 
-**Full Stack Developer** with two years of experience currently working at **[Zorraquino](https://www.zorraquino.com/)**, passionate about both the creation process and the strategy and organization that it entails.
+**Full Stack Developer** with more than 2 and a half years of experience currently working at **[Zorraquino](https://www.zorraquino.com/)**, passionate about both the creation process and the strategy and organization that it entails.
 
 Versatile, creative and analytical self-taught programmer with prior experience in the architecture, research and design sectors. UX/UI and Design Systems enthusiast motivated to work on a team focused on good practices, continuous learning, feedback-driven culture and transparency.
 
@@ -16,7 +16,7 @@ Versatile, creative and analytical self-taught programmer with prior experience 
 
 ### Featured projects:
 
-- [Rick & Morty Vice edition](https://github.com/Adalab/modulo-3-evaluacion-final-leireomadina): Rick and Morty tv-series character finder | *React*
+- [Rick & Morty Vice edition](https://github.com/Adalab/modulo-3-evaluacion-final-leireomadina): Rick and Morty tv-series character finder | *React, TypeScript*
 - [Mars Vegas' Blackjack](https://github.com/leireomadina/blackjack-game): Interactive card game | *JavaScript*
 - [Codeflix TV shows finder](https://github.com/leireomadina/modulo-2-evaluacion-final-leireomadina): TV shows search page connected to an API that stores favorites  | *JavaScript*
 - [Fylo landing page](https://github.com/leireomadina/fylo-dark-theme-landing-page): Frontend mentor challenge focused on componentization | *HTML, CSS, SASS, BEM*
