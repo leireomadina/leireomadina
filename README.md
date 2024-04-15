@@ -1,7 +1,7 @@
 # Hi! I'm Leire 🤘
 
 
-**Full Stack Developer** with 3 years of experience currently working at **[Zorraquino](https://www.zorraquino.com/)**, passionate about both the creation process and the strategy and organization that it entails.
+**Full Stack Developer** with 3+ years of experience currently working at **[Zorraquino](https://www.zorraquino.com/)**, passionate about both the creation process and the strategy and organization that it entails.
 
 Versatile, creative and analytical self-taught programmer with prior experience in the architecture, research and design sectors. UX/UI and Design Systems enthusiast motivated to work on a team focused on good practices, continuous learning, feedback-driven culture and transparency.
 
@@ -12,7 +12,7 @@ Versatile, creative and analytical self-taught programmer with prior experience 
 - Vue.js, React.js
 - PHP, Symfony
 - Git, Figma
-- Learning TypeScript, Node.js and 🦕 Deno
+- Learning TypeScript, testing with Vitest/Jest and Astro 🚀
 
 ### Featured projects:
 
@@ -27,18 +27,3 @@ Versatile, creative and analytical self-taught programmer with prior experience 
 
 - [LinkedIn](https://www.linkedin.com/in/leire-orde%C3%B1ana-madina/)
 - [Behance](https://www.behance.net/leireomadina)
-
-<!--
-**leireomadina/leireomadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
